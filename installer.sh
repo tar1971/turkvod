@@ -2,8 +2,7 @@
 ######################################################################################
 ## Command= wget --no-check-certificate https://raw.githubusercontent.com/tar1971/turkvod/main/installer.sh -O - | /bin/sh
 ##
-###########################################
-###########################################
+
 echo
 # my config script #
 

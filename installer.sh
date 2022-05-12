@@ -1,11 +1,7 @@
 #!/bin/bash
 ######################################################################################
-## Command= wget --no-check-certificate https://raw.githubusercontent.com/tar1971/turkvod/main/installer.sh -O - | /bin/sh
+## Command=wget --no-check-certificate https://raw.githubusercontent.com/tar1971/turkvod/main/installer.sh -O - | /bin/sh
 ##
-
-echo
-echo "   >>>>   Remove old version   "
-echo
 # my config script #
 
 MY_IPK_PY2="enigma2-plugin-extensions-turkvod_12.00_all"

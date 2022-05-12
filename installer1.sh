@@ -7,9 +7,11 @@
 #!/bin/sh
 echo
 
+###########################################
 opkg install --force-overwrite https://github.com/tar1971/turkvod/blob/main/enigma2-plugin-extensions-turkvod_12.00_all.ipk?raw=true
 wait
 opkg install --force-overwrite https://github.com/tar1971/turkvod/blob/main/enigma2-plugin-extensions-turkvod_12.00_PY3.all.ipk?raw=true
 
+###########################################
 sleep 2;
 exit 0

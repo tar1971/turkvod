@@ -4,6 +4,8 @@
 ##
 
 echo
+echo "   >>>>   Remove old version   "
+echo
 # my config script #
 
 MY_IPK_PY2="enigma2-plugin-extensions-turkvod_12.00_all"
